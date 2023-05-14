@@ -1,0 +1,19 @@
+#titulo {
+    color: royalblue;
+    font-size: 3rem;
+    font-style: italic;
+}
+
+.encabezado {
+    color: green;
+    font-size: 4rem;
+}
+
+#elemento-1 {
+    color: red;
+}
+
+#elemento-1.tamanoletra {
+    font-size: 2rem;
+    color: red;
+}
